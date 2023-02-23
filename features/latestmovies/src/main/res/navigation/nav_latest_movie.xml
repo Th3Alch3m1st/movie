@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_latest_movie"
+    app:startDestination="@id/fragment_latest_movies">
+
+    <include app:graph="@navigation/nav_search" />
+    <include app:graph="@navigation/nav_movie_details" />
+    <include app:graph="@navigation/nav_setting" />
+
+    <fragment
+        android:id="@+id/fragment_latest_movies"
+        android:name="com.mobimeo.movies.presentation.LatestMoviesFragment"
+        android:label="LatestMovies"
+        tools:layout="@layout/fragment_latest_movies">
+        <action
+            android:id="@+id/action_fragment_latest_movies_to_search_movies"
+            app:destination="@id/nav_search"
+            app:enterAnim="@anim/right_slide_in"
+            app:exitAnim="@anim/left_slide_out"
+            app:popEnterAnim="@anim/left_slide_in"
+            app:popExitAnim="@anim/right_slide_out" />
+
+        <action
+            android:id="@+id/action_fragment_latest_movies_to_movie_details"
+            app:destination="@id/nav_movie_details"
+            app:enterAnim="@anim/right_slide_in"
+            app:exitAnim="@anim/left_slide_out"
+            app:popEnterAnim="@anim/left_slide_in"
+            app:popExitAnim="@anim/right_slide_out" />
+
+        <action
+            android:id="@+id/action_fragment_latest_movies_to_settings"
+            app:destination="@id/nav_setting"
+            app:enterAnim="@anim/right_slide_in"
+            app:exitAnim="@anim/left_slide_out"
+            app:popEnterAnim="@anim/left_slide_in"
+            app:popExitAnim="@anim/right_slide_out" />
+    </fragment>
+
+
+
+</navigation>

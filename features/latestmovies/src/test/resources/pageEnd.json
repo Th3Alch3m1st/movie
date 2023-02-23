@@ -1,0 +1,386 @@
+{
+  "dates": {
+    "maximum": "2023-02-06",
+    "minimum": "2022-12-20"
+  },
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fMymfWwgTfXh9RkBCFuaZrdn8Of.jpg",
+      "genre_ids": [
+        27,
+        28
+      ],
+      "id": 760204,
+      "original_language": "en",
+      "original_title": "The Lair",
+      "overview": "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.",
+      "popularity": 213.845,
+      "poster_path": "/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg",
+      "release_date": "2022-10-28",
+      "title": "The Lair",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vC0tDDqSDY0ApO5qyzyGcGSM8jp.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 939979,
+      "original_language": "en",
+      "original_title": "Paradise Highway",
+      "overview": "A truck driver has been forced to smuggle illicit cargo to save her brother from a deadly prison gang. With FBI operatives hot on her trail, Sally's conscience is challenged when the final package turns out to be a teenage girl.",
+      "popularity": 207.074,
+      "poster_path": "/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg",
+      "release_date": "2022-07-29",
+      "title": "Paradise Highway",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jazlkwXfw4KdF6fVTRsolOvRCmu.jpg",
+      "genre_ids": [
+        53,
+        12
+      ],
+      "id": 924482,
+      "original_language": "en",
+      "original_title": "The Ledge",
+      "overview": "A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight knit group of friends who will stop at nothing to destroy the evidence and anyone in their way.",
+      "popularity": 167.196,
+      "poster_path": "/S99eCSnRFfeZJmDaIGIZF58H7w.jpg",
+      "release_date": "2022-02-18",
+      "title": "The Ledge",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 151
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yn1Bu1uL3EY6aFw3OlOKXx3Tb6g.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 809363,
+      "original_language": "es",
+      "original_title": "La novia de América",
+      "overview": "",
+      "popularity": 151.125,
+      "poster_path": "/5QADfXVnExzbSHgWvSB5iUIYBfy.jpg",
+      "release_date": "2023-02-17",
+      "title": "La novia de América",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h8x3O4rqNyTfUtaYBaUj96UEv66.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 937278,
+      "original_language": "en",
+      "original_title": "A Man Called Otto",
+      "overview": "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+      "popularity": 199.369,
+      "poster_path": "/d7uLLwLsRwwQlTigSBnPj4CU2sP.jpg",
+      "release_date": "2022-12-28",
+      "title": "A Man Called Otto",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 132
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qAatLCuRhvLyNJbH5IGmxLyU3tx.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 876792,
+      "original_language": "ja",
+      "original_title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+      "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime!  Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.  Scarlet Bond: A long-running conspiracy is swirling over a mysterious power wielded by the Queen in Raja, a small country west of Tempest. When a slime who evolved into a Demon Lord named Rimuru Tempest crosses paths with Hiiro, a survivor of the Ogre race, an incredible adventure packed with new characters begins. The power of bonds will be put to the test!",
+      "popularity": 172.48,
+      "poster_path": "/9nYH8JGbIvXVaNX7f7tya8QUm3e.jpg",
+      "release_date": "2022-11-25",
+      "title": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2uDxaZ16nEsT9KJQMAYLP54tnjW.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        80,
+        18
+      ],
+      "id": 1043565,
+      "original_language": "en",
+      "original_title": "Mindcage",
+      "overview": "Detectives Jake Doyle and Mary Kelly seek the help of an incarcerated serial killer named The Artist when a copycat killer strikes. While Mary searches for clues in The Artist's brilliant but twisted psyche, she and Jake are lured into a diabolical game of cat and mouse, racing against time to stay one step ahead of The Artist and his copycat.",
+      "popularity": 121.605,
+      "poster_path": "/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg",
+      "release_date": "2022-12-16",
+      "title": "Mindcage",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6UruIWtau4IX1HMVG6cu2AvgoL5.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14,
+        27
+      ],
+      "id": 934601,
+      "original_language": "en",
+      "original_title": "Jethica",
+      "overview": "While hiding out in New Mexico after a freak accident, Elena runs into Jessica, an old friend from high school. When Jessica's stalker suddenly shows up at their door, they must seek help from beyond the grave to get rid of him, for good.",
+      "popularity": 156.528,
+      "poster_path": "/qJgsvHJZvfuAJOf3GjcQqK8o1Va.jpg",
+      "release_date": "2023-01-13",
+      "title": "Jethica",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lGILtR7KVASC4QTDA83SjTvBQnX.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 770724,
+      "original_language": "it",
+      "original_title": "L'immensità",
+      "overview": "The story of love between Clara and her children, set in Rome in the '70s.",
+      "popularity": 107.171,
+      "poster_path": "/z0EBydaGK8yaW6NZXli5HgdElOf.jpg",
+      "release_date": "2022-09-15",
+      "title": "L'immensità",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 85
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 545611,
+      "original_language": "en",
+      "original_title": "Everything Everywhere All at Once",
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "popularity": 159.178,
+      "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "release_date": "2022-03-24",
+      "title": "Everything Everywhere All at Once",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 3025
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 674324,
+      "original_language": "en",
+      "original_title": "The Banshees of Inisherin",
+      "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+      "popularity": 149.005,
+      "poster_path": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "release_date": "2022-10-21",
+      "title": "The Banshees of Inisherin",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 886
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/35nt3MwBzW6RYFjoqOU8POQRSib.jpg",
+      "genre_ids": [
+        28,
+        53,
+        27
+      ],
+      "id": 799379,
+      "original_language": "ko",
+      "original_title": "늑대사냥",
+      "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+      "popularity": 146.329,
+      "poster_path": "/h1pLOZATBr7oVDrwj3DfOjTOCGk.jpg",
+      "release_date": "2022-09-21",
+      "title": "Project Wolf Hunting",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 78
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/54PmeEzQMvpojpJBku61ZGQnWUX.jpg",
+      "genre_ids": [
+        16,
+        12,
+        28,
+        14
+      ],
+      "id": 900667,
+      "original_language": "ja",
+      "original_title": "ONE PIECE FILM RED",
+      "overview": "Uta — the most beloved singer in the world. Her voice, which she sings with while concealing her true identity, has been described as “otherworldly.” She will appear in public for the first time at a live concert. As the venue fills with all kinds of Uta fans — excited pirates, the Navy watching closely, and the Straw Hats led by Luffy who simply came to enjoy her sonorous performance — the voice that the whole world has been waiting for is about to resound.",
+      "popularity": 105.012,
+      "poster_path": "/LQodiqLLJc8N19HUJZ8DMMkfpe.jpg",
+      "release_date": "2022-08-06",
+      "title": "One Piece Film Red",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 294
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 579974,
+      "original_language": "te",
+      "original_title": "రౌద్రం రణం రుధిరం",
+      "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+      "popularity": 120.264,
+      "poster_path": "/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg",
+      "release_date": "2022-06-01",
+      "title": "RRR",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 650
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Vt65frTrAutUeymz5KPYz4xozZ.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14
+      ],
+      "id": 846993,
+      "original_language": "ja",
+      "original_title": "グッバイ、ドン・グリーズ！",
+      "overview": "Teen misfits Roma, Toto, and Drop call themselves the “Don Glees,” an informal name for their backyard adventures. One day, when the trio gets blamed for a nearby forest fire, they set off into the woods to prove their innocence. As disaster strikes their expedition, tensions flare between the friends as they realize that growing up has taken them on wildly different paths in life.",
+      "popularity": 105.293,
+      "poster_path": "/42bRH1aEUge6Iia7yS18XV3Wpjg.jpg",
+      "release_date": "2022-02-18",
+      "title": "Goodbye, Don Glees!",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        80,
+        18,
+        10749
+      ],
+      "id": 705996,
+      "original_language": "ko",
+      "original_title": "헤어질 결심",
+      "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man’s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
+      "popularity": 107.036,
+      "poster_path": "/emat4L7EfYsQis28ZUBjtWM1BsX.jpg",
+      "release_date": "2022-06-29",
+      "title": "Decision to Leave",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 496
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 888838,
+      "original_language": "en",
+      "original_title": "The Long Dark Trail",
+      "overview": "After two impoverished teenage brothers manage to escape their abusive father, they embark on a treacherous and haunted journey in the hope of finding their estranged mother who has joined a sadistic cult, deep in the woods of Northwest Pennsylvania.",
+      "popularity": 76.184,
+      "poster_path": "/ebdDGnqQXDGfiggHSazaWCLF6Lf.jpg",
+      "release_date": "2021-06-19",
+      "title": "The Long Dark Trail",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6ZZjNFjTlO9F25467CruIibwuxl.jpg",
+      "genre_ids": [
+        28,
+        53,
+        35
+      ],
+      "id": 739405,
+      "original_language": "en",
+      "original_title": "Operation Fortune: Ruse de Guerre",
+      "overview": "Five Eyes, the international intelligence agency, recruits MI6 agent Orson Fortune to prevent the sale of a deadly new weapons technology that threatens to disrupt the world order.",
+      "popularity": 86.619,
+      "poster_path": "/bQrNm5WIWUpCOwMbyz2PwbM8Lxp.jpg",
+      "release_date": "2023-01-04",
+      "title": "Operation Fortune: Ruse de Guerre",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 65
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cUTvbBsKur4gUXQprQpamR2jpBv.jpg",
+      "genre_ids": [
+        35,
+        12,
+        10751
+      ],
+      "id": 643215,
+      "original_language": "fr",
+      "original_title": "Astérix & Obélix : L'Empire du Milieu",
+      "overview": "It’s the year 50 BC. The Empress of China has just been imprisoned following a coup d’état incited by Deng Tsin Qin, a traitorous prince. Helped by Finalthesis, the Phoenician merchant, and her faithful bodyguard Mai Wei, the Empress’ only daughter Princess Sass-Yi flees to Gaul to ask for help from two valiant warriors: Asterix and Obelix, who are endowed with superhuman strength thanks to their magic potion. Our two inseparable heroes gladly accept to help the Princess save her mother and free her country. And thus begins a great voyage and adventure on the road to China. But Caesar and his powerful army, thirsty for a new conquest, are also heading toward the Middle Kingdom.",
+      "popularity": 75.366,
+      "poster_path": "/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+      "release_date": "2023-02-01",
+      "title": "Asterix & Obelix: The Middle Kingdom",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 94
+    }
+  ],
+  "total_pages": 3,
+  "total_results": 59
+}

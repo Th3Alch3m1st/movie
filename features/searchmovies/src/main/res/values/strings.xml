@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_search_movies">Search</string>
+    <string name="search_movies_here">Search Movie here</string>
+    <string name="msg_nothing_found_search">Nothing found, try with a different title</string>
+    <string name="msg_unknown_error">Unknown Error</string>
+</resources>
